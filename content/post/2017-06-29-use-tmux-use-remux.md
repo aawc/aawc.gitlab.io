@@ -5,6 +5,10 @@ date: 2017-06-29
 tags: ["bash", "code", "tmux"]
 ---
 
+Let's make it easier to use ```tmux``` by using ```remux``` instead.
+
+<!--more-->
+
 ### ```tmux``` is awesome
 Do you use ```tmux```? If not, you should really consider using it.
 Here's a [simple tutorial]
@@ -40,8 +44,8 @@ So, depending on what you're trying to do, you either use a switch, or a
 different switch, or a full term. Clearly, not the easiest options to remember.
 
 ### My solution: ```remux```
-Enter ```remux```, a utility that I wrote in ```bash``` to help me Do The Right
-Thing automatically.
+Enter ```remux```, a utility that I wrote in ```bash``` to help me do The Right
+Thing™ automatically.
 
 ```bash
 #!/bin/bash
